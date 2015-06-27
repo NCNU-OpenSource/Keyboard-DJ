@@ -18,7 +18,7 @@
     - Aplay：播放 \*.wav
     - OMXPlayer：播放 \*.mp3
 
-## 實作過程（碰到哪些問題、如何解決）
+## 實作過程
 
 ### JavaFX 在 Raspbian 的支援度不足
 
@@ -38,7 +38,7 @@ Aplay再撥放wav時會產生雜訊
 
 top, kill, ps 等針對 Process 監看/管理指令。
 
-## 組裝過程及製作教學（GPIO線材的安裝、3D列印後的組裝...）
+## 組裝過程及製作教學
 
   1. 鍵盤、音源、螢幕直接由 Raspberry Pi 的外部介面進行連接  
 
@@ -70,7 +70,7 @@ top, kill, ps 等針對 Process 監看/管理指令。
     java -cp .:jline-1.0.jar ./tw/edu/ncnu/lsa/ShellDJ  
     ```
 
-## 操作教學（做出此產品之後該如何操作）
+## 操作教學
 
 **出現 Ready 後即可進行操作**  
   - **? 鍵：** 顯示可以輸入的聲音/音效按鍵  
