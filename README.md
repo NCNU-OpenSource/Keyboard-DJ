@@ -5,7 +5,8 @@
   - 自對音控的熱愛  
   - 便利的音控系統  
   - 輕便的硬體設備  
-[課堂簡報](https://www.slideshare.net/slideshow/embed_code/key/bSf3Iz9NDK1lWp)
+## 課程簡報
+[連結](https://www.slideshare.net/slideshow/embed_code/key/bSf3Iz9NDK1lWp)
 ## 實作所需材料
 
   - Raspberry Pi (課程提供)  
